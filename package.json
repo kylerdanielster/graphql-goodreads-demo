@@ -1,0 +1,28 @@
+{
+  "name": "graphql-goodreads-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylerdanielster/graphql-goodreads-demo.git"
+  },
+  "author": "Kyle Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylerdanielster/graphql-goodreads-demo/issues"
+  },
+  "homepage": "https://github.com/kylerdanielster/graphql-goodreads-demo#readme",
+  "dependencies": {
+    "eslint": "^4.17.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.0",
+    "node-fetch": "^2.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
